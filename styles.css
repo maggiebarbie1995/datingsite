@@ -3,7 +3,7 @@
   overflow: hidden;
 }
 
-/* Style the links inside the navigation bar */
+
 .topnav a {
   float: left;
   display: block;
@@ -14,25 +14,25 @@
   font-size: 17px;
 }
 
-/* Change the color of links on hover */
+
 .topnav a:hover {
   background-color: rgb(82, 61, 160);
   color: black;
 }
 
-/* Add an active class to highlight the current page */
+
 .topnav a.active {
   background-color: maroon;
   color: white;
 }
 
-/* Hide the link that should open and close the topnav on small screens */
+
 .topnav .icon {
   display: none;
 }
 
 body{
-    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8WviKufDVZfjUknbPwBeBsLBZCfYmlqsdRcbjH-jNAepTmX-9&usqp=CAU"); */
+    
     background-image: url("https://images.pexels.com/photos/326650/pexels-photo-326650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
     background-repeat: no-repeat;
     background-size: cover;
