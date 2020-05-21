@@ -18,7 +18,7 @@ myInput.onblur = function(){
 myInput.onkeyup = function(){
   // Lower case validation //
   var lowerCaseLetters = /[a-z]/g;
-  if(myInput.value.match)(lowerCaseLetters)) {
+  if(myInput.value.match(lowerCaseLetters)); {
     letter.classList.remove("invalid");
     letter.classList.add("valid");
   }
@@ -29,7 +29,7 @@ myInput.onkeyup = function(){
 
   // Capital letters validation //
   var upperCaseLetters = /[A-Z]/g;
-  if(myInput.value.match(upperCaseLetters)){
+  if(myInput.value.match(upperCaseLetters));{
     capital.classList.remove("invalid");
     capital.classList.add("valid");
   }
@@ -40,7 +40,7 @@ myInput.onkeyup = function(){
 
   // Number validation //
   var numbers = /[0-9]/g;
-  if(myInput.value.match(numbers)) {
+  if(myInput.value.match(numbers)); {
     number.classList.remove("invalid");
     number.classList.add("valid");
   }
