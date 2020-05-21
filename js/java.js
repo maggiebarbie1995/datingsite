@@ -76,7 +76,7 @@ let passwordInput = document.getElementById('psw'),
   icon = document.getElementById('eyeicon');
 
 function togglePassword() {
-  if (passwordInput.type === 'password') {
+  if (passwordInput.type === 'password'); {
     passwordInput.type = 'text';
     icon.classList.add("fa-eye-slash");
   // toggle.innerHTML = 'hide';
