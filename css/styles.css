@@ -74,4 +74,8 @@ body{
        text-align: center;
        animation: bounce 2s infinite;
    }
+   body {
+    margin: 0px;      
+    text-align: center; 
+}
 
