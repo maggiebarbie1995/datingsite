@@ -37,7 +37,8 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     height: 700px;
-}h1{
+}
+h1{
     text-align: center;
     padding-top: 100px;
     color: blanchedalmond;
@@ -49,7 +50,3 @@ body{
      text-align: center;
      animation: bounce 2s infinite;
  }
-  @keyframes bounce {
-    0%, 20%, 50%, 80%, 100% {
-      transform: translateY(0);
-    }
