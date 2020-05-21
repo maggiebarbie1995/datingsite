@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo&family=Comfortaa&family=Open+Sans+Condensed:wght@300&display=swap');
 body{
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Comfortaa', cursive;
     font-family: 'Open Sans Condensed', sans-serif;
 }
 .description{
@@ -17,5 +20,6 @@ body{
     text-align: center;
     padding-top: 10%;
     padding-bottom: 10%;
+    padding-left: 42%;
 }
 
