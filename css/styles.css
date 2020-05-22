@@ -1,8 +1,10 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Cairo&family=Comfortaa&family=Open+Sans+Condensed:wght@300&display=swap');
 body{
     font-family: 'Cairo', sans-serif;
     font-family: 'Comfortaa', cursive;
     font-family: 'Open Sans Condensed', sans-serif;
+
 }
 .description{
     text-align: center;
@@ -14,8 +16,24 @@ body{
     padding-top: 7%;
     padding-bottom: 7%;
     border: 10%;
-    
+
 }
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.container-fluid {
+    margin: 0;
+    padding: 0;
+}
+.about-us h1 {
+      margin-top: 30px;
+  }
+  figcaption{
+      margin-top: 20px;
+  }
+
 .finder{
     text-align: center;
     padding-top: 10%;
@@ -130,4 +148,5 @@ ol{
   list-style: none;
   border-radius: 15px;
 }
+
 
